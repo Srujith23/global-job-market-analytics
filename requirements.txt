@@ -1,0 +1,26 @@
+# Core data processing
+pandas
+numpy
+
+# Web scraping
+requests
+beautifulsoup4
+lxml
+selenium
+webdriver-manager
+
+# Database connectivity
+sqlalchemy
+pymysql
+
+# Jupyter / notebooks
+jupyter
+ipykernel
+
+# Text processing (for skill extraction later)
+regex
+nltk
+
+# Progress & utilities
+tqdm
+python-dotenv

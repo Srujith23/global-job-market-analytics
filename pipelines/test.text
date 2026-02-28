@@ -1,0 +1,22 @@
+{'latitude': 40.897958,
+ '__CLASS__': 'Adzuna::API::Response::Job', 
+ 'company': {'display_name': 'Veolia Water Technologies & Solutions', 
+ '__CLASS__': 'Adzuna::API::Response::Company'}, 
+ 'title': 'Financial Data Analyst', 
+ 'description': "Company Description Veolia in North America is the top-ranked environmental 
+ company in the United States for three consecutive years, and the country's largest private 
+ water operator and technology provider as well as hazardous waste and pollution treatment leader.
+  It offers a full spectrum of water, waste, and energy management services, including water and 
+  wastewater treatment, commercial and hazardous waste collection and disposal, energy consulting and resource recovery.
+   Veolia helps commer…", 
+'created': '2026-01-09T04:16:14Z', 
+'salary_is_predicted': '1', 
+'location': {'__CLASS__': 'Adzuna::API::Response::Location', 
+                'display_name': 'Teaneck, Bergen County', 
+                'area': ['US', 'New Jersey', 'Bergen County', 'Teaneck']}, 
+'adref': 'eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3NTYxMjgwNCIsInMiOiJoQVpDRXB6NzhCR1BCTC1DV0loTktRIn0.mmh_TMoWbtiRurAP_0AJfBh7zyrB0vG2wR05Pcez69c',
+'id': '5575612804', 
+'longitude': -74.015854,
+ 'salary_min': 110360.48, 
+ 'salary_max': 110360.48, 
+ 'redirect_url': 'https://www.adzuna.com/land/ad/5575612804?se=hAZCEpz78BGPBL-CWIhNKQ&utm_medium=api&utm_source=9f75c297&v=3350D0B448F0B878F5CECFF5E4294A31BE92EAEE', 'category': {'tag': 'accounting-finance-jobs', 'label': 'Accounting & Finance Jobs', '__CLASS__': 'Adzuna::API::Response::Category'}}
